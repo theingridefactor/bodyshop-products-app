@@ -1,6 +1,8 @@
-An app for Body Shop products
+## Body Shop Products App
 
-Experimenting with
-- mongodb for the database
-- GatsbyJS for frontend
-- GraphQL for the API, to query the database
+A consumer product app that gives details about skincare products from the Body Shop.
+
+
+- MongoDB for the database
+- GatsbyJS for the static-site generator (based on ReactJS and GraphQL open-source)
+- GraphQL to query the data from an API
