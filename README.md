@@ -6,3 +6,5 @@ Tools/ technologies:
 - MongoDB for the database
 - GatsbyJS open-source platform
 - GraphQL to access the data through an API query
+
+data source credits: https://www.kaggle.com/aditig02/the-body-shop-dataset
