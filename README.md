@@ -1,6 +1,6 @@
 ## Body Shop products app
 
-This is an e-commerce app that gives details about skincare products from the Body Shop.
+This is an e-commerce app that displays data about skincare products from the Body Shop.
 
 
 - MongoDB for the database
