@@ -7,4 +7,4 @@ Tools/ technologies:
 - GatsbyJS open-source platform
 - GraphQL to access the data through an API query
 
-data source: [The Body Shop Datsaset (on kaggle)](https://www.kaggle.com/aditig02/the-body-shop-dataset)
+data source: www.kaggle.com/aditig02/the-body-shop-dataset
