@@ -2,7 +2,7 @@
 
 This is an e-commerce app that displays data about skincare products from the Body Shop.
 
-
+Tools/ technologies:
 - MongoDB for the database
-- GatsbyJS for the app frontend and related plug-ins (based on ReactJS and GraphQL open-source)
-- GraphQL to access the data by querying an API
+- GatsbyJS open-source platform
+- GraphQL to access the data through an API query
