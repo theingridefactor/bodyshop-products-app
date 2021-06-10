@@ -1,4 +1,4 @@
-## A simple Body Shop products app
+## Body Shop products app
 
 A consumer product app that gives details about 40+ skincare products from the Body Shop.
 
