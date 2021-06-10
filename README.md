@@ -1,6 +1,6 @@
-## A simple Body Shop Products App
+## A simple Body Shop products app
 
-A consumer product app that gives details about skincare products from the Body Shop.
+A consumer product app that gives details about 40+ skincare products from the Body Shop.
 
 
 - MongoDB for the database
