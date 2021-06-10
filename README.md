@@ -4,5 +4,5 @@ This is an e-commerce app that displays data about skincare products from the Bo
 
 
 - MongoDB for the database
-- GatsbyJS for the frontend and other integrations (based on ReactJS and GraphQL open-source)
+- GatsbyJS for the app frontend and related plug-ins (based on ReactJS and GraphQL open-source)
 - GraphQL to access the data by querying an API
