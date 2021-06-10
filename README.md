@@ -1,4 +1,4 @@
-An app that displays Body Shop products
+An app that shows the user Body Shop products
 
 Experimenting with
 - mongodb for the database
