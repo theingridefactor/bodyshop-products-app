@@ -3,7 +3,6 @@ import { table, th, td, tr } from './info-table.module.css'
 
 
 const InfoTable = ({ data }) => {
-  console.log(data)
   return (
     <div>
       <table>

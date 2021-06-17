@@ -28,7 +28,7 @@ export const query = graphql`query MyQuery {
 const IndexPage = ({ data }) => {
   return (
     <main className={container}>
-      <title>Bodyshop Clone Site</title>
+      <title>The BodyShop Site</title>
       <h1>The BodyShop Site</h1>
       <InfoTable data={data} />
     </main>
