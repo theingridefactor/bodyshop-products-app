@@ -24,7 +24,6 @@ export const query = graphql`query MyQuery {
   }
 }`
 
-// markup
 const IndexPage = ({ data }) => {
   return (
     <main className={container}>
