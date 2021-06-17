@@ -13,7 +13,6 @@ const InfoTable = ({ data }) => {
           <th>Rating</th>
           <th>Total Number of Reviews</th>
           <th>Short Description</th>
-
         </tr>
         {data.allMongodbBodyshopProducts.nodes.map((node) =>
           <tr>
